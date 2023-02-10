@@ -1,0 +1,6 @@
+imgs/
+__pycache__/
+outputs/
+models/
+/logs
+*.pyc
